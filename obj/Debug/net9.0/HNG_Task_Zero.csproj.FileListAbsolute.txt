@@ -32,3 +32,37 @@ C:\Users\DELL\Documents\HNG 13\HNG_Task_Zero\obj\Debug\net9.0\refint\HNG_Task_Ze
 C:\Users\DELL\Documents\HNG 13\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.pdb
 C:\Users\DELL\Documents\HNG 13\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.genruntimeconfig.cache
 C:\Users\DELL\Documents\HNG 13\HNG_Task_Zero\obj\Debug\net9.0\ref\HNG_Task_Zero.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\appsettings.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.staticwebassets.endpoints.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.exe
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.deps.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.runtimeconfig.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\HNG_Task_Zero.pdb
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.AssemblyInfo.cs
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.sourcelink.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\scopedcss\bundle\HNG_Task_Zero.styles.css
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task.95F71B28.Up2Date
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\refint\HNG_Task_Zero.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.pdb
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.genruntimeconfig.cache
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\ref\HNG_Task_Zero.dll

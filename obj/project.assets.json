@@ -81,11 +81,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Documents\\HNG 13\\HNG_Task_Zero\\HNG_Task_Zero.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Documents\\HNG\\HNG_Task_Zero\\HNG_Task_Zero.csproj",
       "projectName": "HNG_Task_Zero",
-      "projectPath": "C:\\Users\\DELL\\Documents\\HNG 13\\HNG_Task_Zero\\HNG_Task_Zero.csproj",
+      "projectPath": "C:\\Users\\DELL\\Documents\\HNG\\HNG_Task_Zero\\HNG_Task_Zero.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Documents\\HNG 13\\HNG_Task_Zero\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Documents\\HNG\\HNG_Task_Zero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
