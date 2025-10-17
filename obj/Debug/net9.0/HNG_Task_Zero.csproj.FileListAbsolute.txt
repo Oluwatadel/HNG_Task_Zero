@@ -59,7 +59,6 @@ C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build.json.cache
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task.95F71B28.Up2Date
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.dll
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\refint\HNG_Task_Zero.dll
