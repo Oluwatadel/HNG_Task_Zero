@@ -65,3 +65,4 @@ C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\refint\HNG_Task_Zero.
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.pdb
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\HNG_Task_Zero.genruntimeconfig.cache
 C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\ref\HNG_Task_Zero.dll
+C:\Users\DELL\Documents\HNG\HNG_Task_Zero\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

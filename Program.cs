@@ -1,3 +1,6 @@
+using System.Text.Json;
+using System.Text.Json.Serialization;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -23,7 +26,19 @@ app.MapGet("/health", () => Results.Ok("Healthy"));
 
 app.MapGet("/me", async () =>
 {
-    var catFact = await httpClient.GetFromJsonAsync<CatFact>("https://catfact.ninja/fact");
+    string apiUrl = $"https://catfact.ninja/fact?rand={Guid.NewGuid()}";
+    CatFact? catFact = null;
+    try
+    {
+        catFact = await httpClient.GetFromJsonAsync<CatFact>(apiUrl);
+    }
+    catch
+    {
+        catFact = new CatFact 
+        { 
+            Fact = "Could not fetch cat fact at the moment. Please try again later."
+        };
+    }
     var result = new
     {
         status = "success",
@@ -34,9 +49,12 @@ app.MapGet("/me", async () =>
             stack = "C#",
         },
         timestamp = DateTime.UtcNow.ToString("o"),
-        catFact = catFact?.Fact ?? "Problem reading from cat fact API"
+        fact = catFact?.Fact
     };
-    return Results.Ok(result);
+    return Results.Json(result, new System.Text.Json.JsonSerializerOptions
+    {
+        PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+    });
 });
 
 app.UseHttpsRedirection();
@@ -49,6 +67,9 @@ app.Run();
 
 public class CatFact
 {
+    [JsonPropertyName("fact")]
     public string? Fact { get; set; } = string.Empty;
+
+    [JsonPropertyName("length")]
     public int Length { get; set; }
 }
